@@ -10,7 +10,7 @@ A simple weather application built using HTML, CSS, and JavaScript. The app allo
 
 ## Screenshots
 
-![Weather App Screenshot](weatherapp-sc)
+![Weather App Screenshot](weatherapp-sc.png)
 
 ## Technologies Used
 # Frontend: HTML, CSS, JavaScript
