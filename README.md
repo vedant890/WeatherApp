@@ -10,7 +10,12 @@ A simple weather application built using HTML, CSS, and JavaScript. The app allo
 
 ## Screenshots
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](weatherappsc)
+
+## Technologies Used
+# Frontend: HTML, CSS, JavaScript
+# API: OpenWeatherMap API for weather data
+# Icons: Font Awesome for search icon and weather conditions icons
 
 ## Installation
 
